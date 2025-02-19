@@ -1,4 +1,4 @@
-```markdown
+
 # Paddy Disease Classification
 
 ## Introduction
